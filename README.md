@@ -5,8 +5,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rushibankar3/DSA-Lab/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/rushibankar3/DSA-Lab/tree/main/0162-find-peak-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rushibankar3/DSA-Lab/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/rushibankar3/DSA-Lab/tree/main/0162-find-peak-element/) | Medium |
 <!---LeetCode Topics End-->
