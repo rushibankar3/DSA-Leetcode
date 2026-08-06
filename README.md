@@ -18,6 +18,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rushibankar3/DSA-Lab/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/rushibankar3/DSA-Lab/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,12 +27,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rushibankar3/DSA-Lab/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rushibankar3/DSA-Lab/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rushibankar3/DSA-Lab/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
