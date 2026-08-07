@@ -40,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0125-valid-palindrome](https://github.com/rushibankar3/DSA-Lab/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/rushibankar3/DSA-Lab/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/rushibankar3/DSA-Lab/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -52,4 +53,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/rushibankar3/DSA-Lab/tree/main/0234-palindrome-linked-list/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/rushibankar3/DSA-Lab/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
