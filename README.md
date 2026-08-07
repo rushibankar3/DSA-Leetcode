@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rushibankar3/DSA-Lab/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/rushibankar3/DSA-Lab/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rushibankar3/DSA-Lab/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/rushibankar3/DSA-Lab/tree/main/0141-linked-list-cycle/) | Easy |
@@ -27,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rushibankar3/DSA-Lab/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/rushibankar3/DSA-Lab/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/rushibankar3/DSA-Lab/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rushibankar3/DSA-Lab/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Hash Table
