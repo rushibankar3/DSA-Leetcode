@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/rushibankar3/DSA-Lab/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rushibankar3/DSA-Lab/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/rushibankar3/DSA-Lab/tree/main/0162-find-peak-element/) | Medium |
@@ -42,6 +43,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/rushibankar3/DSA-Lab/tree/main/0015-3sum/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/rushibankar3/DSA-Lab/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/rushibankar3/DSA-Lab/tree/main/0141-linked-list-cycle/) | Easy |
@@ -64,4 +66,8 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/rushibankar3/DSA-Lab/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/rushibankar3/DSA-Lab/tree/main/0344-reverse-string/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/rushibankar3/DSA-Lab/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
