@@ -12,6 +12,7 @@
 | [0162-find-peak-element](https://github.com/rushibankar3/DSA-Lab/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushibankar3/DSA-Lab/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/rushibankar3/DSA-Lab/tree/main/0283-move-zeroes/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/rushibankar3/DSA-Lab/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/rushibankar3/DSA-Lab/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushibankar3/DSA-Lab/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/rushibankar3/DSA-Lab/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
