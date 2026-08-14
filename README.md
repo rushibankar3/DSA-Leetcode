@@ -12,6 +12,7 @@
 | [0162-find-peak-element](https://github.com/rushibankar3/DSA-Lab/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushibankar3/DSA-Lab/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/rushibankar3/DSA-Lab/tree/main/0283-move-zeroes/) | Easy |
+| [0496-next-greater-element-i](https://github.com/rushibankar3/DSA-Lab/tree/main/0496-next-greater-element-i/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/rushibankar3/DSA-Lab/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rushibankar3/DSA-Lab/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rushibankar3/DSA-Lab/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/rushibankar3/DSA-Lab/tree/main/0496-next-greater-element-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/rushibankar3/DSA-Lab/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rushibankar3/DSA-Lab/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/rushibankar3/DSA-Lab/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +92,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/rushibankar3/DSA-Lab/tree/main/0020-valid-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/rushibankar3/DSA-Lab/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
