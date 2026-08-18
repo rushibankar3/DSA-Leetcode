@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/rushibankar3/DSA-Lab/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/rushibankar3/DSA-Lab/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushibankar3/DSA-Lab/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/rushibankar3/DSA-Lab/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/rushibankar3/DSA-Lab/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/rushibankar3/DSA-Lab/tree/main/0496-next-greater-element-i/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/rushibankar3/DSA-Lab/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -23,6 +24,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/rushibankar3/DSA-Lab/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushibankar3/DSA-Lab/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/rushibankar3/DSA-Lab/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/rushibankar3/DSA-Lab/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -89,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rushibankar3/DSA-Lab/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/rushibankar3/DSA-Lab/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +104,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/rushibankar3/DSA-Lab/tree/main/0136-single-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rushibankar3/DSA-Lab/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
