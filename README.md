@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/rushibankar3/DSA-Lab/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/rushibankar3/DSA-Lab/tree/main/0049-group-anagrams/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/rushibankar3/DSA-Lab/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/rushibankar3/DSA-Lab/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/rushibankar3/DSA-Lab/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rushibankar3/DSA-Lab/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -50,6 +51,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rushibankar3/DSA-Lab/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/rushibankar3/DSA-Lab/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/rushibankar3/DSA-Lab/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rushibankar3/DSA-Lab/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/rushibankar3/DSA-Lab/tree/main/0496-next-greater-element-i/) | Easy |
@@ -112,4 +114,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rushibankar3/DSA-Lab/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rushibankar3/DSA-Lab/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
