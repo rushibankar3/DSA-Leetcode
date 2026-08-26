@@ -9,10 +9,10 @@ public:
         double ans =1;
         while (power>0){
             if (power%2==1){
-                ans=ans*x;
+                ans*=x;
             }
-            x=x*x;
-            power=power/2;
+            x*=x;
+            power/=2;
         }
         return ans;
     }
