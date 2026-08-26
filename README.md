@@ -47,6 +47,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rushibankar3/DSA-Lab/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/rushibankar3/DSA-Lab/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0050-powx-n](https://github.com/rushibankar3/DSA-Lab/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/rushibankar3/DSA-Lab/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rushibankar3/DSA-Lab/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Hash Table
@@ -130,4 +131,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/rushibankar3/DSA-Lab/tree/main/0007-reverse-integer/) | Medium |
+| [0050-powx-n](https://github.com/rushibankar3/DSA-Lab/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
