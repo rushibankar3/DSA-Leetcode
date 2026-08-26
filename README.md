@@ -124,4 +124,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rushibankar3/DSA-Lab/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/rushibankar3/DSA-Lab/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
