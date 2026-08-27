@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rushibankar3/DSA-Lab/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rushibankar3/DSA-Lab/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/rushibankar3/DSA-Lab/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/rushibankar3/DSA-Lab/tree/main/0053-maximum-subarray/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rushibankar3/DSA-Lab/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/rushibankar3/DSA-Lab/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/rushibankar3/DSA-Lab/tree/main/0136-single-number/) | Easy |
@@ -127,9 +128,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rushibankar3/DSA-Lab/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/rushibankar3/DSA-Lab/tree/main/0053-maximum-subarray/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/rushibankar3/DSA-Lab/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/rushibankar3/DSA-Lab/tree/main/0050-powx-n/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/rushibankar3/DSA-Lab/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
